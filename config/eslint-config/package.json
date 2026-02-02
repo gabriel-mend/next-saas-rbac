@@ -16,7 +16,9 @@
   "prettier": "@saas/prettier",
   "eslintConfig": {
     "extends": [
-      "./base.js"
+      "./base.js",
+      "./node.js",
+      "./next.js"
     ]
   }
 }
